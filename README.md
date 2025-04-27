@@ -1,13 +1,16 @@
 # 💰 Crypto Tracker - Flutter
 
 
+
+
 ![Flutter](https://img.shields.io/badge/Flutter-3.16.9-%2302569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.2.1-%230175C2?logo=dart)
-![License](https://img.shields.io/badge/License-MIT-%23brightgreen)
+
+
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ab3609bd-4b92-4b1b-b70a-03c7915952dd" width="300" alt="App Screenshot">
-  <img src="https://i.imgur.com/Vn4Wz9p.png" width="300" alt="Currency Picker">
 </div>
 
 ## ✨ Key Features
