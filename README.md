@@ -1,18 +1,16 @@
-# bitcointicker_flutter
-
-
 ```markdown
 # 💰 Crypto Tracker - Flutter
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.16.9-%2302569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.2.1-%230175C2?logo=dart)
-
+![License](https://img.shields.io/badge/License-MIT-%23brightgreen)
 
 A sleek cryptocurrency price tracker with real-time rates, platform-adaptive UI, and smooth animations.
 
+| ![Home Screen](https://i.imgur.com/JqkX9zl.png) | ![Currency Picker](https://i.imgur.com/Vn4Wz9p.png) |
+|-------------------------------------------------|----------------------------------------------------|
 
-| ![Home Screen](![iPhone 12 Pro](https://github.com/user-attachments/assets/e859584a-0313-43fe-8332-96232ba994eb)) | 
-|-------------------------------------------------------------------------------------------------------------------|
+![Screenshot_20250427_144725](https://github.com/user-attachments/assets/ab3609bd-4b92-4b1b-b70a-03c7915952dd)
 
 ## ✨ Features
 - **Real-time prices** for BTC, ETH, LTC, XRP, BNB
@@ -61,12 +59,12 @@ lib/
 4. Push to branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
+## 📜 License
+MIT © 2023 [Your Name]  
+See [LICENSE](LICENSE) for details.
+
 ---
 🔗 **Live Demo**: [Coming Soon]  
 ⭐ **Like this project? Give it a star!**
 ```
    ```
-   *(Requires web deployment)*
-
-3. **Badge Customization**:
-   Update Flutter/Dart versions in the badges to match your `flutter --version` output.
