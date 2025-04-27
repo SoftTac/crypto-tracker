@@ -1,4 +1,4 @@
----
+```
 ```markdown
 # 💰 Crypto Tracker - Flutter
 
