@@ -1,4 +1,4 @@
-
+---
 ```markdown
 # 💰 Crypto Tracker - Flutter
 
@@ -60,8 +60,6 @@ flutter run
 ## 🖥️ Screenshots
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ab3609bd-4b92-4b1b-b70a-03c7915952dd" width="30%" alt="Main Screen">
-  <img src="https://i.imgur.com/JqkX9zl.png" width="30%" alt="Price Display"> 
-  <img src="https://i.imgur.com/Vn4Wz9p.png" width="30%" alt="Currency Selector">
 </div>
 
 ## 🏗️ Architecture
@@ -90,10 +88,10 @@ graph TD
 
 ---
 <div align="center">
-  <a href="https://github.com/your-username/crypto-tracker/stargazers">
-    <img src="https://img.shields.io/github/stars/your-username/crypto-tracker?style=social" alt="GitHub Stars">
+  <a href="https://github.com/SoftTac/crypto-tracker/stargazers">
+    <img src="https://img.shields.io/github/stars/SoftTac/crypto-tracker?style=social" alt="GitHub Stars">
   </a>
-  <a href="https://github.com/your-username/crypto-tracker/issues">
+  <a href="https://github.com/SoftTac/crypto-tracker/issues">
     <img src="https://img.shields.io/github/issues/your-username/crypto-tracker" alt="Open Issues">
   </a>
 </div>
