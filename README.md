@@ -61,8 +61,10 @@ flutter run
 
 ## 🖥️ Screenshots
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ab3609bd-4b92-4b1b-b70a-03c7915952dd" width="30%" alt="Main Screen">
+  <img src="https://github.com/user-attachments/assets/fc10f1e0-ecb2-41ee-a420-d99c46a8b04f" width="30%" alt="Main Screen">
 </div>
+
+
 
 ## 🏗️ Architecture
 ```mermaid
