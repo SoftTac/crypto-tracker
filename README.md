@@ -1,7 +1,5 @@
 # 💰 Crypto Tracker - Flutter
-```
-```markdown
-# 💰 Crypto Tracker - Flutter
+
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.16.9-%2302569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.2.1-%230175C2?logo=dart)
